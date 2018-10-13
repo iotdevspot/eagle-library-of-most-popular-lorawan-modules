@@ -19,3 +19,5 @@ Since Autodesk's library.io hasn't got the feature to publish my managed libary 
 * Rak Wireless RAK813
 
 Link: [https://library.io/libraries/5158916-002-communication-modules](https://library.io/libraries/5158916-002-communication-modules)
+
+![image of the modules](/all-module-on-one-pcb.png)
